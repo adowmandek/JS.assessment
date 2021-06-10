@@ -1,0 +1,14 @@
+*{box-sizing: border-box;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.cardss{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+}
